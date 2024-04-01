@@ -1,5 +1,5 @@
 # Weather_Forecast_COD6087
-# Event Planner Web Application Documentation
+# Weather Forecast Web Application Documentation
 
 ## Introduction
 Welcome to the documentation for our Event Planner web application! This project aims to assist users in organizing and 
