@@ -75,3 +75,9 @@ intuitive features such as event creation, editing, and search functionality, us
 The responsive design ensures seamless access across devices, while potential future improvements like user accounts and calendar views promise 
 enhanced usability. Whether for personal or professional use, our Event Planner empowers users to stay on top of their schedules and ensures successful event 
 coordination. Embrace simplicity and efficiency with our Event Planner for seamless event management experiences.
+![Screenshot (3)](https://github.com/Sravyareddy04/Weather_Forecast_COD6087/assets/162128264/0e3efc75-2b31-4811-9324-7c849c47559c)
+
+![Screenshot (4)](https://github.com/Sravyareddy04/Weather_Forecast_COD6087/assets/162128264/ae2f846d-e14a-47c2-b4b7-e934a30355f6)
+
+![Screenshot (5)](https://github.com/Sravyareddy04/Weather_Forecast_COD6087/assets/162128264/7f7f4ba1-7733-47cb-bf9f-f7ad385ebf0c)
+
